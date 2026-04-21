@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Burak</h1>
+<h1 align="left">Hi, I'm Burak. Data Scientist based in London</h1>
 
 ## Stack Snapshot
 
