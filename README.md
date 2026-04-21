@@ -1,4 +1,4 @@
-Hi, I'm Burak. Data Scientist based in London
+Hey 👋 I'm Burak, Data Scientist based in London.
 
 ## Stack Snapshot
 
