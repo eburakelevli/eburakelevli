@@ -12,4 +12,4 @@
 
 | Languages | ML | Databases | DevOps & Cloud |
 | --- | --- | --- | --- |
-| Python, Java | PyTorch, TensorFlow | MongoDB, MySQL, SQL Server | Docker, AWS, CanvasJS |
+| Python, Java, R | PyTorch, TensorFlow | MongoDB, MySQL, SQL Server | Docker, AWS, CanvasJS |
