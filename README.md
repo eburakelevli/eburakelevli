@@ -14,7 +14,7 @@ Python (NumPy, Pandas, scikit-learn, Matplotlib, TensorFlow, PyTorch, spaCy) · 
 SQL · ETL · Excel · VBA
 
 **Cloud / DevOps**
-AWS (SageMaker, S3) · Git · CI/CD
+AWS (SageMaker, Bedrock, S3) · Git · CI/CD
 
 **Data Visualization / BI**
 Looker · Tableau · Power BI
