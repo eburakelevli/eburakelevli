@@ -5,3 +5,5 @@ Hey 👋 I'm Burak, Data Scientist based in London.
 | Languages | ML | Databases | DevOps & Cloud |
 | --- | --- | --- | --- |
 | Python, Java, R | PyTorch, TensorFlow | MongoDB, MySQL, SQL Server | Docker, AWS, CanvasJS |
+
+
