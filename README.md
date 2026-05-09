@@ -5,7 +5,7 @@ Hey 👋 I'm Burak, a Data Scientist based in London.
 ## 🛠 Skills
 
 **GenAI / LLM Systems**
-LLM integration · RAG · Agentic tools · Function calling · Prompt engineering · NLP (NER, Sentiment Analysis) · Transformers / BERT
+LLM integration · RAG · Agentic Systems (LangGraph, LangChain, Function calling) · Prompt engineering · NLP (spaCy, BERT, NER, sentiment analysis) · Transformers
 
 **Programming / ML**
 Python (NumPy, Pandas, scikit-learn, Matplotlib, TensorFlow, PyTorch, spaCy) · Java · R · SAS
@@ -17,4 +17,4 @@ SQL · ETL · Excel · VBA
 AWS (SageMaker, Bedrock, S3) · Git · CI/CD
 
 **Data Visualization / BI**
-Looker · Tableau · Power BI
+Looker · Tableau
